@@ -1,5 +1,3 @@
-# Gatsby-starter-Nisha
-
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -22,7 +20,10 @@
 
 ---
 
-#### Modify Layout
+
+## Modify Default values
+
+### Modify Layout
 
 `layout.js` file contains layout for all files in the site
 
@@ -34,9 +35,9 @@ src
       layout.js
 ```
 
----
 
-#### Change Title at all places
+
+### Change Title at all places
 
 ```
 gatsby-config.js
@@ -44,9 +45,9 @@ gatsby-config.js
     siteMetadata
 ```
 
----
 
-#### Manage Color & Fonts
+
+### Manage Color & Fonts
 
 ```
 src
@@ -58,9 +59,8 @@ src
           Top of the page
 ```
 
----
 
-#### Add Google Fonts to the site
+### Add Google Fonts to the site
 
 ```
 src
@@ -70,4 +70,3 @@ src
       typography.js
 ```
 
----
